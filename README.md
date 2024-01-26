@@ -17,6 +17,7 @@ If you're not familiar with Yahtzee, here are some resources:
 - [The Wikipedia writeup](https://en.wikipedia.org/wiki/Yahtzee)
 - An [online version of the game](https://cardgames.io/yahtzee/)
 
+![](https://github.com/sohamvsonar/yahtzee_game/blob/main/assets/SS.jpg)
 
 ## Getting Started
 
