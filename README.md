@@ -25,9 +25,11 @@ To run this project locally, follow these steps:
 
 1. Make sure you have Flutter installed. If not, you can download it from [here](https://flutter.dev/docs/get-started/install).
 2. Clone this repository to your local machine.
-3. Open the project in your preferred IDE (e.g., Android Studio, VSCode).
-4. Connect a device or start an emulator.
-5. Run the application using `flutter run` command in the terminal.
+   ```bash
+   git clone https://github.com/sohamvsonar/yahtzee_game.git
+4. Open the project in your preferred IDE (e.g., Android Studio, VSCode).
+5. Connect a device or start an emulator.
+6. Run the application using `flutter run` command in the terminal.
 
 ## Usage
 
